@@ -1,0 +1,4 @@
+spring:
+    application:
+            name: Spring Boot Excel API
+debug: true
